@@ -1,3 +1,8 @@
+# Prerequisits
+You must have at least .NET 6 installed on your machine. You can download from microsoft:
+https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+
+
 # tictactoe
 A simple tictactoe game written with C# using WPF
 
